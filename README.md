@@ -3,17 +3,17 @@
 ![marley](https://user-images.githubusercontent.com/101938881/189770281-ea49664f-c209-429c-95f1-aff43445d48e.jpeg)
 
 ## Atributos
--Peso;
--Pelagem;
--Cor;
--Orelha.
+- Peso;
+- Pelagem;
+- Cor;
+- Orelha.
 
 ## Métodos
--Andar;
--Correr;
--Pular;
--Cheirar;
--Brincar. 
+- Andar;
+- Correr;
+- Pular;
+- Cheirar;
+- Brincar. 
 
 ## Interface gráfica
 
