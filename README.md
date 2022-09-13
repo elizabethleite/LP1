@@ -17,12 +17,13 @@
 
 ## Interface gráfica
 
-![image](https://user-images.githubusercontent.com/101938881/189775031-ff34a70d-8c10-4f3e-8afd-6fd16b081e43.png)
+![interface](https://user-images.githubusercontent.com/101938881/189785847-39cd3a83-6de1-4576-8291-c048e3d7a103.jpg)
 
 ## Saída
 
-![image](https://user-images.githubusercontent.com/101938881/189775228-e8099a2e-62ad-4bdd-a192-8c74c2672664.png)
+![output](https://user-images.githubusercontent.com/101938881/189785885-77d5dc89-1ce5-4956-9475-17c8b6889ae3.jpg)
 
-Arquivo csv
+## Arquivo csv
 
-[cachorro.csv](https://github.com/elizabethleite/LP1/files/9552368/cachorro.csv)
+![csv](https://user-images.githubusercontent.com/101938881/189785906-56385af8-423e-46b2-b8a6-b11da6830448.jpg)
+
